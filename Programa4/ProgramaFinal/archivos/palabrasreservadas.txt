@@ -1,0 +1,35 @@
+coin
+cantidad:1
+[fila columna]
+[1  50]
+
+ebay
+cantidad:1
+[fila columna]
+[1  44]
+
+home
+cantidad:1
+[fila columna]
+[1  38]
+
+master
+cantidad:1
+[fila columna]
+[1  27]
+
+page
+cantidad:1
+[fila columna]
+[1  9]
+
+site
+cantidad:1
+[fila columna]
+[1  18]
+
+web
+cantidad:5
+[fila columna]
+[1  1][1  6][1  15][1  24][1  35]
+
